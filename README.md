@@ -1,0 +1,3 @@
+# JavascriptUnitTestTemplates
+
+These are templates
